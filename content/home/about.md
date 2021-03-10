@@ -5,9 +5,9 @@ widget: about
 
 design:
   background:
-  image: background.png
-  image_darken: 0.5
-  image_parallax: true
+    image: background.png
+    image_darken: 0.5
+    image_parallax: true
   
 # Activate this widget? true/false
 active: true
