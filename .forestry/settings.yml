@@ -20,11 +20,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/home
-  label: Home
-  create: all
-  match: "**/*"
-- type: directory
   path: content/authors
   label: Authors
   create: all
