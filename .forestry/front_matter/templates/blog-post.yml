@@ -48,5 +48,3 @@ fields:
 - type: list
   name: categories
   label: categories
-pages:
-- content/post/getting-started/hi.md
