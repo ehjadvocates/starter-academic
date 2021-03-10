@@ -36,6 +36,8 @@ fields:
   - type: number
     name: placement
     label: placement
+    config:
+      min: 1
   - type: boolean
     name: preview_only
     label: preview_only
