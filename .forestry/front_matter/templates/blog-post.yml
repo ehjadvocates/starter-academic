@@ -49,4 +49,5 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/getting-started/hi.md
 - content/post/hi.md
