@@ -33,18 +33,14 @@ coordinates:
   latitude: '40.842715'
   longitude: '-73.943713'
 
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-
 contact_links:
   - icon: Instagram
-    icon_pack: fab
+    icon_pack: fas
     name: Instagram
     link: 'https://www.instagram.com/ehj_advocates'
     
   - icon: Twitter
-    icon_pack: fab
+    icon_pack: fas
     name: Twitter
     link: 'https://twitter.com/ehjadvocates'
 
