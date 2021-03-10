@@ -48,3 +48,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/post/hi.md
