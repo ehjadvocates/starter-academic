@@ -28,6 +28,6 @@ author: admin
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   # Text color (true=light or false=dark).
   text_color_light = true
-+++
+---
 
 
