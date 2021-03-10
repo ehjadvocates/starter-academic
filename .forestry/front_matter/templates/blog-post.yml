@@ -50,3 +50,4 @@ fields:
   label: categories
 pages:
 - content/post/getting-started/hi.md
+- content/post/preview.md
