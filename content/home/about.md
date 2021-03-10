@@ -3,6 +3,11 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
 
+design:
+  background:
+  image: background.jpg
+  image_darken: 0.5
+  image_parallax: true
 # Activate this widget? true/false
 active: true
 
