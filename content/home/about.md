@@ -8,7 +8,8 @@ design:
     image: background.png
     image_darken: 0.5
     image_parallax: true
-  
+    text_color_light: true
+    
 # Activate this widget? true/false
 active: true
 
