@@ -35,12 +35,12 @@ coordinates:
 
 contact_links:
 
-  - icon: Instagram
+  - icon: instagram
     icon_pack: fas
     name: Instagram
     link: 'https://www.instagram.com/ehj_advocates'
     
-  - icon: Twitter
+  - icon: twitter
     icon_pack: fas
     name: Twitter
     link: 'https://twitter.com/ehjadvocates'
