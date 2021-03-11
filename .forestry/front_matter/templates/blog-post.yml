@@ -50,7 +50,3 @@ fields:
 - type: list
   name: categories
   label: categories
-pages:
-- content/post/climate-change-sample.md
-- content/post/getting-started/hi.md
-- content/post/preview.md
