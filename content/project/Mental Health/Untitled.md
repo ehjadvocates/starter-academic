@@ -14,15 +14,11 @@ You or someone you know may be suffering from a mental illness at this very mome
 
 Here are a few resources for individuals that may be concerned about their mental health or struggle emotionally.
 
-**NYS Office of Mental Health**: 
-
-The New York state office of mental health offers an emotional support hotline.
+**NYS Office of Mental Health**: The New York state office of mental health offers an emotional support hotline.
 
 1-844-863-9314
 
-**NYC Well**: 
-
-NYC residents can contact NYC WELL to speak to someone. Available 24/7.
+**NYC Well**: NYC residents can contact NYC WELL to speak to someone. Available 24/7.
 
 Contact by phone (1-888-NYC-WELL), online chat https://nycwell.cityofnewyork.us/ or Text "Well" to 64173
 
@@ -32,17 +28,15 @@ Contact by phone (1-888-NYC-WELL), online chat https://nycwell.cityofnewyork.us/
 
 www.hitesite.org
 
-**Aunt Bertha**: A social care network that connects verified social care providers and those are seeking, in addition, it helps people search for free low-cost medical care, mental health care, job training, food, housing, and more.
+**Aunt Bertha**: A social care network that connects verified social care providers and those who are seeking, in addition, it helps people search for free, low-cost medical care, mental health care, job training, food, housing, and more.
 
 http://www.auntbertha.com/
 
-**ACLU Teenagers, Healthcare, and the Law Guide**:
-This article explains teenagers' rights to make their own medical decisions under New York State and federal law, this resource can also connect young people with medical providers, teachers, counselors, social workers.
+**ACLU Teenagers, Healthcare, and the Law Guide**: This article explains teenagers' rights to make their own medical decisions under New York State and federal law; this resource can also connect young people with medical providers, teachers, counselors, social workers.
 
 http://www.nyclu.org/en/publications/guide-teenagers-health-care-and-Law-english-and-spanish
 
-**Crisis Text Line**:
-Crisis text line that provides free, 24/7 mental health support through text messages
+**Crisis Text Line**: This text line provides free, 24/7 mental health support through text messages
 
 Text “HOME” to 741741
 
