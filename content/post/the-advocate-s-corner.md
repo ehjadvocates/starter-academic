@@ -11,9 +11,9 @@ summary = ""
 tags = ["justice", "advocacy", "youth", "climate change", "mental health", "environment", "EHJ"]
 title = "The Advocate's Corner"
 [image]
-caption = ""
+caption = "The Advocate's corner"
 focal_point = ""
-placement = nil
+placement = 1
 preview_only = false
 
 +++
