@@ -50,3 +50,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/post/the-advocate-s-corner.md
