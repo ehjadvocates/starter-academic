@@ -14,9 +14,7 @@ You or someone you know may be suffering from a mental illness at this very mome
 
 Here are a few resources for individuals that may be concerned about their mental health or struggle emotionally.
 
-**NYS Office of Mental Health**: The New York state office of mental health offers an emotional support hotline.
-
-1-844-863-9314
+**NYS Office of Mental Health**: The New York state office of mental health offers an emotional support hotline: 1-844-863-9314
 
 **NYC Well**: NYC residents can contact NYC WELL to speak to someone. Available 24/7.
 
@@ -24,7 +22,7 @@ Contact by phone (1-888-NYC-WELL), online chat https://nycwell.cityofnewyork.us/
 
 **National Suicide Hotline**: 1-800-273-8255
 
-**HITE Site**: HITE offers an online directory that provides information on more than 5000 health and social services that are available to low income, uninsured, and underinsured individuals in New York City, Long Island, and Westchester
+**HITE Site**: HITE offers an online directory that provides information on more than 5000 health and social services that are available to low-income, uninsured, and underinsured individuals in New York City, Long Island, and Westchester.
 
 www.hitesite.org
 
@@ -36,7 +34,7 @@ http://www.auntbertha.com/
 
 http://www.nyclu.org/en/publications/guide-teenagers-health-care-and-Law-english-and-spanish
 
-**Crisis Text Line**: This text line provides free, 24/7 mental health support through text messages
+**Crisis Text Line**: Providing free, 24/7 mental health support through text messages.
 
 Text “HOME” to 741741
 
