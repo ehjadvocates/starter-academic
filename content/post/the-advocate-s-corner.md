@@ -2,6 +2,7 @@
 authors = []
 categories = []
 date = ""
+draft = true
 featured = false
 lastmod = ""
 projects = []
