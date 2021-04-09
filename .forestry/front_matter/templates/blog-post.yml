@@ -51,4 +51,5 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/The Advocate's Corner/the-advocate-s-corner.md
 - content/post/the-advocate-s-corner.md
