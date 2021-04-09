@@ -2,7 +2,6 @@
 authors = []
 categories = ["Creative", "Writing", "Opinions"]
 date = ""
-draft = true
 featured = false
 lastmod = ""
 projects = []
