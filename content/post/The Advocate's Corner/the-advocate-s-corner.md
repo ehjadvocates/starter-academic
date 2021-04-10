@@ -7,7 +7,7 @@ lastmod = ""
 projects = []
 subtitle = ""
 summary = ""
-tags = ["Youth", "Advocates", "Environment", "Justice", "Climate Change", "Advocacy", "Mental Health", "EHJ"]
+tags = ["Youth Advocacy", "Environmental Health and Justice", "Climate Change", "Mental Health"]
 title = "The Advocate's Corner"
 [image]
 caption = "write letter Icon is by Sketch2SVG from the Noun Project"
