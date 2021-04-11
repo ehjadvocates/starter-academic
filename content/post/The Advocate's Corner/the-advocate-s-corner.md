@@ -16,4 +16,4 @@ placement = 1
 preview_only = false
 
 +++
-##### ![](/uploads/ehj-noun_write-letter_small.png)Read our EHJ Advocate's opinions, perspectives, and ideas on topics relating to environmental health and justice, youth advocacy, mental health, and climate change.
+![](/uploads/ehj-noun_write-letter_small.png)Read our EHJ Advocate's opinions, perspectives, and ideas on topics relating to environmental health and justice, youth advocacy, mental health, and climate change.
